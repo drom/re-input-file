@@ -1,0 +1,21 @@
+{
+  "name": "react-input-file",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "eslint": "^4.4.1",
+    "http-server": "^0.10.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "scripts": {
+    "test": "eslint *.js",
+    "start": "http-server build/",
+    "build": "browserify src/app.js -o build/bundle.js"
+  },
+  "author": "Aliaksei Chapyzhenka",
+  "license": "MIT"
+}

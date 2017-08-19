@@ -1,1 +1,1 @@
-# react-file-select
+# react-input-file
