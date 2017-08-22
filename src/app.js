@@ -29,7 +29,7 @@ class App extends React.Component {
                 $('span', {}),
                 $('span', {}),
                 $('span', {}),
-                $(fs1.Comp, {})
+                $(fs1.Comp, { accept: '.txt'})
             )
         );
     }
