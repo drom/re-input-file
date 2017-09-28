@@ -8,8 +8,8 @@
     "browserify": "^14.4.0",
     "eslint": "^4.4.1",
     "http-server": "^0.10.0",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react": "^16.0.0",
+  "react-dom": "^16.0.0"
   },
   "scripts": {
     "test": "eslint *.js",
